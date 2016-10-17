@@ -1,6 +1,4 @@
 body {
-    font-family: "Century Gothic";
-
 }
 
 .header {
@@ -63,8 +61,9 @@ body {
     padding-bottom: 3%;
     text-align: center;
     line-height: 12px;
-    background-color: #d7e1ee;
+    background-color: #d9e1ee;
     letter-spacing: 100px;
+    overflow: hidden;
 }
 
 .bottom-nav{
@@ -92,7 +91,6 @@ body {
     padding: 2px;
     font-size: xx-large;
     color: #333333;
-    font-family: "Century Gothic";
 
 }
 
